@@ -1,3 +1,4 @@
+//A program of using user defined function with parameter in C
 #include <stdio.h>
 
 void show(char name[], int age) {

@@ -1,3 +1,4 @@
+//“Ax2 + bx + c = 0” write a program in C to find the value of x.
 #include <stdio.h>
 #include <math.h>
 

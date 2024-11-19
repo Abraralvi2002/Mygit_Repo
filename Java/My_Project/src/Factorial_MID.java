@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Factorial_MID {
-   static int m = 1;
+   static int m = 1; // m = 5, m = 20, m = 60, m =120, m =120
     public static void checkFactorial(int n){
     
         m *= n;

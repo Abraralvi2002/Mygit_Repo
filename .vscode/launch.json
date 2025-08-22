@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/USER/OneDrive/Desktop/My_Programmes",
-      "program": "c:/Users/USER/OneDrive/Desktop/My_Programmes/build/Debug/outDebug",
+      "cwd": "c:/Users/USER/OneDrive/Desktop/My_Programmes/Phitron Algo Course",
+      "program": "c:/Users/USER/OneDrive/Desktop/My_Programmes/Phitron Algo Course/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

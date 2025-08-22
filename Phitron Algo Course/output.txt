@@ -1,3 +1,5 @@
-Hello How are you???
-Now give some input ...
-The sum is : 30
+0 1 1 1 0 
+1 0 0 1 0 
+1 0 0 0 0 
+1 1 0 0 1 
+0 0 0 1 0 

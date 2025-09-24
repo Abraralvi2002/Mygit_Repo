@@ -13,10 +13,18 @@ int main(){
         if(n == 1){
             cin>>x;
             pq.push(x);
-        }else if(!pq.empty() && n == 2){
-            cout<<pq.top()<<endl;
-            pq.pop();
+        }else if(n == 2){
+            if(pq.empty()){
+                cout<<"empty"<<"\n";
+            }else{
+                int mn = pq.top();
+                cout<<mn<<"\n";
+                while(!pq.empty() && pq.top() == mn){
+                    pq.pop();
+                }
+            }
         }
+        
     }
     return 0;
 }
